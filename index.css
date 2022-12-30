@@ -183,20 +183,20 @@ font-weight: bold;
     top: 145px;
     z-index: 1;
     color: #000;
-    font-size: 12pt;
+    font-size: 11pt;
     text-shadow: 1.1px 0px 0px #DBDDE1;
 }
 
 .startp p:nth-child(1) {
     position: relative;
-    left: 87px;
-    top: 125px;
-    rotate: 45deg;
+    left: 85px;
+    top: 120px;
+    rotate: 46deg;
 
 }
 
 .startp p:nth-child(2) {
-    top: 72px;
+    top: 69px;
     position: relative;
 
 }
