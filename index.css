@@ -37,7 +37,7 @@ button {
     background-color: #fff;
 }
 
-.BTMain {
+.btMain {
     background-color: #DBDDE1;
     width: 30px;
     border: 2px solid #000;
@@ -50,11 +50,11 @@ button {
 }
 
 
-.BTMain:hover {
+.btMain:hover {
     top: 145px;
 }
 
-.BTStop {
+.btStop {
     cursor: pointer;
     background-color: #DBDDE1;
     width: 30px;
@@ -69,12 +69,12 @@ button {
 }
 
 
-.BTStop:hover {
+.btStop:hover {
     left: 108px;
     top: 165px;
 }
 
-.BTreset {
+.btreset {
     background-color: #DBDDE1;
     width: 30px;
     border: 2px solid #000;
@@ -88,7 +88,7 @@ button {
     z-index: 1;
 }
 
-.BTreset:hover {
+.btreset:hover {
     top: 137px;
     right: 102px;
 }
